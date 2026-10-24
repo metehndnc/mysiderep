@@ -18,31 +18,16 @@
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://github.com/metehndnc/mysiderep/blob/main/icon.png",
             "tintColor": "#5CA399",
-            "screenshots": [
-                "https://github.com/metehndnc/mysiderep/blob/main/icon.png",
-            ],
             "versions": [
                 {
-                    "version": "451.0.0",
+                    "version": "1.0",
                     "date": "2026-09-15",
-                    "size": 256,
+                    "size": 79,
                     "downloadURL": "https://github.com/metehndnc/mysiderep/releases/download/IG/IG_SHW_v451.0.0.ipa",
                     "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "26.0"
                 }
             ]
-        }
-    ],
-    "news": [
-        {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
         }
     ]
 }
