@@ -11,7 +11,7 @@
     ],
     "apps": [
         {
-            "name": "MODLU İNSTA",
+            "name": "İnstagram",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "SHW",
             "subtitle": "MODLANMIŞ",
@@ -21,11 +21,11 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "date": "2026-09-15",
-                    "size": 79,
+                    "date": "2023-03-30",
+                    "size": 79821,
                     "downloadURL": "https://github.com/metehndnc/mysiderep/releases/download/IG/IG_SHW_v451.0.0.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "26.0"
+                    "localizedDescription": "First AltStore release!",
+                    "minOSVersion": "12.0"
                 }
             ]
         }
