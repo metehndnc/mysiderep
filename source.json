@@ -1,0 +1,20 @@
+{
+  "name": "Mete'nin IPA Kaynağı",
+  "identifier": "com.metehndnc.mysiderep",
+  "apps": [
+    {
+      "name": "SHW IG",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "shawn",
+      "localizedDescription": "MODLANMIŞ İNSTAGRAM",
+      "iconURL": "https://github.com/metehndnc/mysiderep/blob/main/icon.png",
+      "versions": [
+        {
+          "version": "v451.0.0",
+          "date": "2026-10-24",
+          "downloadURL": "https://github.com/metehndnc/mysiderep/releases/download/IG/IG_SHW_v451.0.0.ipa"
+        }
+      ]
+    }
+  ]
+}
